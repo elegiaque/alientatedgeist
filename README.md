@@ -1,2 +1,2 @@
-# alientatedgeist
-Position Independent Reverse SOCKS Proxy based on C5pider's Shellcode Template
+# alienatedgeist
+Agent is a position independent relay that is invoked via WebSockets. Server is designed to parse SOCKS proxy requests and forward them into the Agent via WebSockets.
